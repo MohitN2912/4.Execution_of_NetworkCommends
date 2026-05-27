@@ -30,13 +30,11 @@ This commands includes
 
 <img width="946" height="392" alt="Screenshot 2026-05-27 221916" src="https://github.com/user-attachments/assets/6aa1569d-4510-48aa-bdd7-1b025a397cad" />
 
-<img width="946" height="392" alt="Screenshot 2026-05-27 221916" src="https://github.com/user-attachments/assets/a0085fdc-de8a-498a-a202-c612a3b259e2" />
+<img width="943" height="512" alt="Screenshot 2026-05-27 222616" src="https://github.com/user-attachments/assets/157cab32-4246-4de6-a6c7-28cd6296aa66" />
 
-<img width="946" height="392" alt="Screenshot 2026-05-27 221916" src="https://github.com/user-attachments/assets/2fe49058-c193-484e-945b-c6ed146427b3" />
+<img width="1016" height="939" alt="Screenshot 2026-05-27 222751" src="https://github.com/user-attachments/assets/2184dcda-1e58-4022-9f95-d97f8c7ec4d6" />
 
-<img width="946" height="392" alt="Screenshot 2026-05-27 221916" src="https://github.com/user-attachments/assets/84003608-dc70-40ae-8444-e546391c54ea" />
-
-
+<img width="894" height="943" alt="Screenshot 2026-05-27 222849" src="https://github.com/user-attachments/assets/3212ac06-c3df-43ac-9805-c4894095e55d" />
 
 ## Result
 Thus Execution of Network commands Performed 
